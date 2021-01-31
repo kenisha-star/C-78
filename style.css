@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: turquoise;
+}
+h1 {
+  font-size: 40px;
+  font-family: italic;
+}
+img {
+  height: 350px;
+  width: 350px;
+}
